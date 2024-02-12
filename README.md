@@ -1,6 +1,3 @@
-# DipDup Tutorial
-
-Materials for the video tutorial [How to build a backend for your Tezos dapp](https://www.youtube.com/watch?v=K-1s6fCBegc)
 
 ## Requirements
 
